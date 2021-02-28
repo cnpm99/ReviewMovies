@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/CmoneeWeb">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="CmoneeDS" password="123456" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=cmonee_db" username="sa"/>
+</Context>
